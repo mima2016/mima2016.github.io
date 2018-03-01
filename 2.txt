@@ -1,42 +1,42 @@
-[»ù±¾ÅäÖÃ]
-¿ì½Ý·½Ê½=Ö´ÃÔ´«ÊÀ
-Ñ¡ÖÐÎÄ×ÖÑÕÉ«=$FF0000
-Ñ¡ÖÐ±³¾°ÑÕÉ«=$00FF00 
+[åŸºæœ¬é…ç½®]
+å¿«æ·æ–¹å¼=æ‰§è¿·ä¼ ä¸–
+é€‰ä¸­æ–‡å­—é¢œè‰²=$FF0000
+é€‰ä¸­èƒŒæ™¯é¢œè‰²=$00FF00 
 
-ÆôÓÃ·´Íâ¹ÒÄÚºË=1
-¿ªÆô×éºÏÁ¬·¢=1
-¿ªÆôÁ¬Ðø»»Ó°=1
-ÔÊÐíµÍµÈ¼¶ÁÄÌì=1
-Ê¹ÓÃÀÏÉ³³Ç=1
-Ê¹ÓÃ¾­µä½çÃæ=1
+å¯ç”¨åå¤–æŒ‚å†…æ ¸=1
+å¼€å¯ç»„åˆè¿žå‘=1
+å¼€å¯è¿žç»­æ¢å½±=1
+å…è®¸ä½Žç­‰çº§èŠå¤©=1
+ä½¿ç”¨è€æ²™åŸŽ=1
+ä½¿ç”¨ç»å…¸ç•Œé¢=1
 
-¹Ù·½Ê×Ò³=http://www.soug.cn
-¹ºÂòÔª±¦=http://nnt7.com/ch/a.html?sid=44765
-¹«¸æÒ³Ãæ=http://soug.cn/archiver/?tid-2.html
+å®˜æ–¹é¦–é¡µ=http://www.soug.cn
+è´­ä¹°å…ƒå®=http://nnt7.com/ch/a.html?sid=44765
+å…¬å‘Šé¡µé¢=http://soug.cn/archiver/?tid-2.html
 
 
-[¡ô¡ô¡ôÖ´ÃÔÒ»Çø¡ï¶À¼Ò´òÔì¡ô¡ô¡ô]
+[â—†â—†â—†æ‰§è¿·ä¸€åŒºâ˜…ç‹¬å®¶æ‰“é€ â—†â—†â—†]
 
-¡¾Ö´ÃÔ´«ÊÀÄæ»ðÍÀÁú(µçÐÅÏßÂ·)¡¿=´«ÆæÊÀ½ç|123.206.123.154|7000|$FF00CC|AFT
-¡¾Ö´ÃÔ´«ÊÀÄæ»ðÍÀÁú(ÍøÍ¨ÏßÂ·)¡¿=´«ÆæÊÀ½ç|123.206.123.154|7000|$FF00CC|AFT
-¡¾Ö´ÃÔ´«ÊÀÄæ»ðÍÀÁú(ÈÕ±¾ÏßÂ·)¡¿=´«ÆæÊÀ½ç|123.206.123.154|7000|$FF00CC|AFT
-¡¾Ö´ÃÔ´«ÊÀÄæ»ðÍÀÁú(ÃÀ¹úÏßÂ·)¡¿=´«ÆæÊÀ½ç|123.206.123.154|7000|$FF00CC|AFT
-¡¾Ö´ÃÔ´«ÊÀÄæ»ðÍÀÁú(»ðÐÇÏßÂ·)¡¿=´«ÆæÊÀ½ç|123.206.123.154|7000|$FF00CC|AFT
-¡¾Ö´ÃÔ´«ÊÀÄæ»ðÍÀÁú(Ä¾ÐÇÏßÂ·)¡¿=´«ÆæÊÀ½ç|123.206.123.154|7000|$FF00CC|AFT
-[¡ô¡ô¡ô²âÊÔ¡ô¡ô¡ô]
-´«ÆæÊÀ½çA=´«ÆæÊÀ½ç|119.29.216.60|7000|$FF00CC|AFT
-´«ÆæÊÀ½çC=´«ÆæÊÀ½ç|119.29.216.60|7000|$FF00CC|CH
-´«ÆæÊÀ½ç=´«ÆæÊÀ½ç|119.29.216.60|7000
-´«ÆæÊÀ½çlocalA=´«ÆæÊÀ½ç|127.0.0.1|7000|$FF00CC|AFT
-´«ÆæÊÀ½çlocalC=´«ÆæÊÀ½ç|127.0.0.1|7000|$FF00CC|CH
-´«ÆæÊÀ½ç1A=´«ÆæÊÀ½ç|118.89.106.29|7000|$FF00CC|AFT
-´«ÆæÊÀ½ç1C=´«ÆæÊÀ½ç|118.89.106.29|7000|$FF00CC|CH
-´«ÆæÊÀ½ç1F=´«ÆæÊÀ½ç|118.89.106.29|7001|$FF00CC|FH
-´«ÆæÊÀ½çD=´«ÆæÊÀ½ç|127.0.0.1|7000|$FF00CC|CT
-´«ÆæÊÀ½çC=´«ÆæÊÀ½ç|118.89.106.29|7000|$FF00CC|CT
-´«ÆæÊÀ½çA=´«ÆæÊÀ½ç|118.89.106.29|7000|$FF00CC|AFT
-[¸üÐÂÅäÖÃ]
-²¹¶¡ÊýÁ¿=7
+ã€æ‰§è¿·ä¼ ä¸–é€†ç«å± é¾™(ç”µä¿¡çº¿è·¯)ã€‘=ä¼ å¥‡ä¸–ç•Œ|123.206.123.154|7000|$FF00CC|AFT
+ã€æ‰§è¿·ä¼ ä¸–é€†ç«å± é¾™(ç½‘é€šçº¿è·¯)ã€‘=ä¼ å¥‡ä¸–ç•Œ|123.206.123.154|7000|$FF00CC|AFT
+ã€æ‰§è¿·ä¼ ä¸–é€†ç«å± é¾™(æ—¥æœ¬çº¿è·¯)ã€‘=ä¼ å¥‡ä¸–ç•Œ|123.206.123.154|7000|$FF00CC|AFT
+ã€æ‰§è¿·ä¼ ä¸–é€†ç«å± é¾™(ç¾Žå›½çº¿è·¯)ã€‘=ä¼ å¥‡ä¸–ç•Œ|123.206.123.154|7000|$FF00CC|AFT
+ã€æ‰§è¿·ä¼ ä¸–é€†ç«å± é¾™(ç«æ˜Ÿçº¿è·¯)ã€‘=ä¼ å¥‡ä¸–ç•Œ|123.206.123.154|7000|$FF00CC|AFT
+ã€æ‰§è¿·ä¼ ä¸–é€†ç«å± é¾™(æœ¨æ˜Ÿçº¿è·¯)ã€‘=ä¼ å¥‡ä¸–ç•Œ|123.206.123.154|7000|$FF00CC|AFT
+[â—†â—†â—†æµ‹è¯•â—†â—†â—†]
+ä¼ å¥‡ä¸–ç•ŒA=ä¼ å¥‡ä¸–ç•Œ|119.29.216.60|7000|$FF00CC|AFT
+ä¼ å¥‡ä¸–ç•ŒC=ä¼ å¥‡ä¸–ç•Œ|119.29.216.60|7000|$FF00CC|CH
+ä¼ å¥‡ä¸–ç•Œ=ä¼ å¥‡ä¸–ç•Œ|119.29.216.60|7000
+ä¼ å¥‡ä¸–ç•ŒlocalA=ä¼ å¥‡ä¸–ç•Œ|127.0.0.1|7000|$FF00CC|AFT
+ä¼ å¥‡ä¸–ç•ŒlocalC=ä¼ å¥‡ä¸–ç•Œ|127.0.0.1|7000|$FF00CC|CH
+ä¼ å¥‡ä¸–ç•Œ1A=ä¼ å¥‡ä¸–ç•Œ|118.89.106.29|7000|$FF00CC|AFT
+ä¼ å¥‡ä¸–ç•Œ1C=ä¼ å¥‡ä¸–ç•Œ|118.89.106.29|7000|$FF00CC|CH
+ä¼ å¥‡ä¸–ç•Œ1F=ä¼ å¥‡ä¸–ç•Œ|118.89.106.29|7001|$FF00CC|FH
+ä¼ å¥‡ä¸–ç•ŒD=ä¼ å¥‡ä¸–ç•Œ|127.0.0.1|7000|$FF00CC|CT
+ä¼ å¥‡ä¸–ç•ŒC=ä¼ å¥‡ä¸–ç•Œ|118.89.106.29|7000|$FF00CC|CT
+ä¼ å¥‡ä¸–ç•ŒA=ä¼ å¥‡ä¸–ç•Œ|118.89.106.29|7000|$FF00CC|AFT
+[æ›´æ–°é…ç½®]
+è¡¥ä¸æ•°é‡=7
 1=http://cnset.host.smartgslb.com/ItemCfg.dll|.\Data\config\ItemCfg.ini|233472
 2=http://cnset.host.smartgslb.com/minmaplist.dll|.\Data\config\minmaplist.xml|155648
 3=http://cnset.host.smartgslb.com/minmaplist_2.0.dll|.\Data\config\minmaplist_2.0.xml|155,648 
@@ -45,12 +45,11 @@
 6=http://cnset.host.smartgslb.com/promptinfo.dll|.\Data\config\promptinfo_1.xml|4096
 7=http://cnset.host.smartgslb.com/promptinfo_1.dll|.\Data\config\promptinfo_1.ini|4096
 
-[Íâ¹Ò±êÌâÌØÕ÷]
+[å¤–æŒ‚æ ‡é¢˜ç‰¹å¾]
 Kill=2
 Kill01=20170921.exe
-Kill02=¹¥»÷·­±¶
+Kill02=æ”»å‡»ç¿»å€
 
-[Íâ¹ÒÄ£¿éÌØÕ÷]
+[å¤–æŒ‚æ¨¡å—ç‰¹å¾]
 Kill=2
 Kill01=20170921.exe
-Kill02=xljsq.dll
